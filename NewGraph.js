@@ -13,3 +13,4 @@ g.addEdge(4,6);
 g.addEdge(4,7);
 g.addEdge(5,7);
 g.addEdge(7,8);
+g.showGraph(); // shows graph

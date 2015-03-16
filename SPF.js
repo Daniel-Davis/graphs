@@ -1,6 +1,6 @@
 // Daniel Davis, SPF, shortest path finder//
 
-load("graph.js"); // loads up graph info
+load("Graph.js"); // loads up graph info
 
 graph = new Graph(9); // graph with 8 vertices
 

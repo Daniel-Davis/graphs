@@ -4,7 +4,7 @@ load("graph.js"); // loads up graph info
 
 graph = new Graph(9); // graph with 8 vertices
 
-graph.addEdge(0,1);
+graph.addEdge(0,1); // adding in all of the edges
 graph.addEdge(1,4);
 graph.addEdge(2,4);
 graph.addEdge(2,5);
